@@ -4,7 +4,16 @@
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
-![preview](public/static/preview.jpg)
+![preview](public/static/webBankp1.PNG)
+![preview](public/static/webBankp2.PNG)
+![preview](public/static/webBankp3.PNG)
+![preview](public/static/webBankp4.PNG)
+![preview](public/static/webBankp5.PNG)
+![preview](public/static/webBankp6.PNG)
+![preview](public/static/webBankp7.PNG)
+![preview](public/static/webBankp8.PNG)
+![preview](public/static/webBankp9.PNG)
+
 
 | [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
 | ----------------------------------------------------- | :---------------------------------------------------------------- |
